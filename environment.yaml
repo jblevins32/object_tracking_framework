@@ -1,0 +1,16 @@
+name: obj_track_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python==3.12
+  - numpy
+  - pyyaml
+  - matplotlib
+  - jupyter
+  - pytest
+  - tqdm
+  - pytorch
+  - torchinfo
+  - torchvision
+  - scikit-learn
